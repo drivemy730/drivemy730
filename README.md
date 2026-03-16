@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm David
 
-<!--
-**drivemy730/drivemy730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drivemy730&show_icons=true&theme=radical)](https://github.com/drivemy730)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drivemy730&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+### 🔭 I’m currently learning
+- 🌱 **Cloud technologies** (AWS, Azure, GCP)  
+- 🌱 **Kubernetes & Docker** for containerization  
+- 🌱 **Relational databases** and advanced SQL  
+- 🌱 Building full-stack projects with **React + Spring Boot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)]()
+[![Cloud](https://img.shields.io/badge/Cloud-Azure?logo=azure&logoColor=white)]()
+
+### 📫 How to reach me
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/dveleza/)  
+- 📧 Email: drivemy730@gmail.com  
+
+### ⚡ Fun Fact
+🥊 I love **MMA**  
+📚 I enjoy **reading books**  
+✝️ My faith in **Jesus** guides me  
+💻 I love **technology**  
