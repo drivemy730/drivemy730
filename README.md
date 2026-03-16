@@ -22,9 +22,23 @@
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/dveleza/)  
 - 📧 Email: drivemy730@gmail.com  
 
-### ⚡ Fun Fact
-✝️ My faith in **Jesus** guides me
+### ⚡ Fun Facts
 
-🥊 I love **MMA**  
-📚 I enjoy **reading books**  
-💻 I love **technology**  
+✝️ My faith in Jesus guides me
+
+🥊 I practice MMA
+*(trying to stay humble… while learning how to choke people)*
+
+📚 I read a lot — favorite writer: Fyodor Dostoevsky
+*(so if I seem deep, blame Russian literature)*
+
+♟️ I play chess
+*(I sacrifice pieces for “strategy”… definitely not by accident)*
+
+💻 I love technology
+*(breaking things and fixing them counts as learning)*
+
+⚠️ MMA + Dostoevsky + chess
+= possible villain origin story
+  
+💻 I love technology
