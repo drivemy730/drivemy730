@@ -23,7 +23,7 @@
 - 📧 Email: drivemy730@gmail.com  
 
 ### ⚡ Fun Fact
-✝️ My faith in **Jesus** guides me 
+✝️ My faith in **Jesus** guides me**
 🥊 I love **MMA**  
 📚 I enjoy **reading books**  
 💻 I love **technology**  
