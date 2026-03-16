@@ -84,12 +84,4 @@ The backend is fully functional using **Spring Boot, PostgreSQL, AES encryption,
 ⚠️ MMA + Dostoevsky + chess
 = possible villain origin story
 
-♟️ I play chess
-*(I sacrifice pieces for “strategy”… definitely not by accident)*
 
-💻 I love technology
-*(breaking things and fixing them counts as learning)*
-
-⚠️ MMA + Dostoevsky + chess
-= possible villain origin story
-  
