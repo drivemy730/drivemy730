@@ -1,8 +1,9 @@
 # Hi there 👋 I'm David
 
-💻 Full-Stack Developer in progress
-☁️ Interested in Cloud, DevOps, and scalable systems
-🥊 MMA practitioner | ♟️ Chess player | 📚 Dostoevsky reader
+* 💻 Full-Stack Developer 
+* ☁️ Interested in Cloud, DevOps, and scalable systems
+* 🥊 MMA practitioner | ♟️ Chess player | 📚 Dostoevsky reader
+
 
 🌎 **Languages**
 
