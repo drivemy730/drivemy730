@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drivemy730&layout=compact&theme=radical)
 
 ### 🔭 I’m currently learning
-- 🌱 **Cloud technologies** (AWS, Azure, GCP)  
+- 🌱 **Cloud technologies** (AWS)  
 - 🌱 **Kubernetes & Docker** for containerization  
 - 🌱 **Relational databases** and advanced SQL  
 - 🌱 Building full-stack projects with **React + Spring Boot**
