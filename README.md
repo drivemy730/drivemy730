@@ -41,4 +41,3 @@
 ⚠️ MMA + Dostoevsky + chess
 = possible villain origin story
   
-💻 I love technology
