@@ -2,6 +2,8 @@
 
 * 💻 Full-Stack Developer 
 * ☁️ Interested in Cloud, DevOps, and scalable systems
+
+
 *   ✝️ My faith in Jesus guides me
 🥊 MMA practitioner | ♟️ I like Chess | 📚 love reading
 
