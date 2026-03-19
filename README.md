@@ -5,12 +5,11 @@
 
 
 *   ✝️ My faith in Jesus guides me
+
 🥊 MMA practitioner | ♟️ I like Chess | 📚 love reading
 
 
 ⚠️ MMA + Dostoevsky + chess = possible villain origin story
-
-
 
 
 🌎 **Languages**
