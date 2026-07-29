@@ -17,10 +17,11 @@
 * 🇪🇸 Spanish (Native)
 * 🇺🇸 English (Fluent)
 
-![Profile Views](https://komarev.com/ghpvc/?username=drivemy730\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=drivemy730&color=blue)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drivemy730\&show_icons=true\&theme=radical)](https://github.com/drivemy730)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drivemy730\&layout=compact\&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drivemy730&show_icons=true&theme=radical)](https://github.com/drivemy730)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drivemy730&layout=compact&theme=radical)
 
 ---
 
